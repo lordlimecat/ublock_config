@@ -1,0 +1,3 @@
+! 10/2/2018,  Fonts allowing
+@@||fonts.gstatic.com^$font
+@@||typekit.net^$font
